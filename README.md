@@ -107,7 +107,7 @@ Um sistema de automação residencial utilizando o Raspberry Pi Pico W na plaqui
 
 ## 🎥 Demonstração: 
 
-- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: https://youtu.be/3dWlzAXgZCY
+- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: https://youtu.be/VgxR1t_gd2Q
 
 ## 💻 Desenvolvedor
  
